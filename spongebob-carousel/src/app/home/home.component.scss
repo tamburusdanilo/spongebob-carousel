@@ -1,0 +1,14 @@
+.img-container {
+}
+
+.slide-container {
+
+}
+
+.carousel-inner {
+    .item {
+        &.active {
+            width: 300px;
+        }
+    }
+}
