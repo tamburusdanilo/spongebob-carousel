@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import "./node_modules/bootstrap/scss/bootstrap";
+
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.carousel-caption {
+    background: rgba($color: #000000, $alpha: 0.5);
+}
+
+// .carousel-inner {
+//     .slide-container {
+//         width: 300px;
+
+//     }
+// }
