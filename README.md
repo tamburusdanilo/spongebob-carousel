@@ -1,5 +1,8 @@
 # SpongebobCarousel
 
+todo, swiper, follow directive example from this tutorial: (npm swiper)
+https://medium.com/@fbanyai/swiper-10-angular-16-uncovered-1721bf32dfd6
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
 ## Development server
